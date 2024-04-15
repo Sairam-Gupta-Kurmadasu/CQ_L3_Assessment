@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This permission set contains permissions for users required to collaborate CQ controlled document contents through Office 365 integration.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>CQDE Office 365 Collaboration Extended Permission</label>
+</PermissionSet>

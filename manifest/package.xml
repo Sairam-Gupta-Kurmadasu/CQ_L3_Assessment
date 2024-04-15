@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>partTriggerHandler_Sairam_TC</members>
+        <members>partTriggerHandler_Sairam</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>partTrigger_Sairam</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+    <members>compliancequest__SQX_Part_Family__c</members>
+        <members>compliancequest__SQX_Part__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>CQ_Admin_Custom_Permission_Sairam</members>
+        <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>CQ_Admin_Permission_Set_Sairam</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+    <members>Update_Part_As_Active_Sairam</members>
+    <name>FlowDefinition</name>
+    </types>
+    <types>
+    <members>Update_Part_As_Active_Sairam</members>
+    <name>Flow</name>
+    </types>
+    <types>
+    <members>CQ_Part_Master1</members>
+    <name>FlexiPage</name>
+    </types>
+    
+    <version>59.0</version>
+</Package>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>CQ_Admin_Custom_Permission_Sairam</name>
+    </customPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>CQ Admin Permission Set Sairam</label>
+</PermissionSet>
